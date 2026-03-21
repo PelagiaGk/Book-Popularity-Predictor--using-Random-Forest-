@@ -8,29 +8,29 @@ Using Machine Learning techniques (Random Forest) we predict whether a book will
 
 Ensure you have Python installed and your virtual environment active.
 
-Run this command on your project's terminal:
+Run this command on your project's terminal: <br>
 pip install -r requirements.txt
 
 <h4>2. Setup Credentials</h4>
 
 Create a .env file in the root directory and add your Kaggle credentials.
 
-The inside of the file must look like this:
-KAGGLE_USERNAME=your_username
+The inside of the file must look like this: <br>
+KAGGLE_USERNAME=your_username <br>
 KAGGLE_KEY=your_api_key
 
 <h4>3. Train the Model </h4>
 
 Run the training script to fetch the data and save the model.
 
-Run this command on your project's terminal:
+Run this command on your project's terminal:<br>
 python train_model.py
 
 <h4>4. Make Predictions </h4>
 
 Use the interactive script to test your own book ideas.
 
-Run this command on your project's terminal:
+Run this command on your project's terminal:<br>
 python predict.py
 
 <h3>Methodology:</h3>
