@@ -1,6 +1,6 @@
 <h1>Book Popularity Predictor</h1>
 
-Using Machine Learning techniques (Random Forest) we predict whether a book will become popular based on its metadata from the "Goodreads Books" dataset found on Kaggle: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data 
+Using Machine Learning techniques (Random Forest) we predict whether a book is likely to gain more popularity in the future based on metadata from the "Goodreads Books" dataset found on Kaggle: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data 
 
 <h3>How to Run:</h3>
 
