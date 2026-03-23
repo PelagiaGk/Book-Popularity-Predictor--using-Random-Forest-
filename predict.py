@@ -27,7 +27,7 @@ def get_prediction():
 
         print("-" * 30)
         if prediction[0] == 1:
-            print(f"Result: This book is likely to be even more popular! (Confidence: {probability:.1%})")
+            print(f"Result: This book is likely to become even more popular! (Confidence: {probability:.1%})")
         else:
             print(f"Result: This book will likely continue to have average popularity. (Confidence: {1-probability:.1%})")
         print("-" * 30)
